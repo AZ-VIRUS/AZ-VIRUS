@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayusha</h1>
 <h3 align="center">I don't always speak in paradoxes, but when I do, I don't!<br><br>-A Computer Science student at Lincoln University</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=az-virus" alt="az-virus" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
